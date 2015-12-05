@@ -18,4 +18,22 @@ list of all users and passwords in a Users.txt file.
 
 RUNNING TUDU:
 
+After extracting or downloading all files, navigate to the 'dist' 
+directory and run the following command:
+    $ java -jar "Tudu_2.jar" 
+
+That's it!
+
+
+FUTURE DEVELOPMENT: 
+Ideally, Tudu would serve as a web app and mobile device so it can serve
+in several different aspects of users' lives. Obviously, user data would
+need to be secured rather than being stored in a txt file, and also I 
+would like the changes to be responsive and instant, saving as the data
+is altered, rather than requiring that the user hit a 'save' button.
+
+
+
+Thank you, I hope you enjoy my silly program!
+-Amanda
 
